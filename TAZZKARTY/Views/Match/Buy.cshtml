@@ -1,0 +1,29 @@
+﻿@model List<Match>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match Information</title>
+    <link rel="stylesheet" href="~/css/styles.css">
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+</head>
+<body>
+    <div class="matchs-blaocks">
+
+        @foreach (var match in Model)
+        {
+            <div class="match-block">
+                <img src="~/assets/img/@match.Image" alt="Match Image" class="match-image">
+                <div class="match-details">
+                    <h2 class="team-name">@match.NameS VS @match.Namev</h2>
+                    <p class="match-time"><i class="fas fa-calendar-day"></i> Match Time : @match.MatchTime</p>
+                    <p class="location"> <i class='fas fa-map-marker-alt'></i>Location: @match.Location</p>
+                    <p class="tournament"> <i class="fas fa-trophy"></i> Tourment : @match.Tournament </p>
+                    <p class="price">@match.Price $</p>
+                    
+                   
+                </div>
+            </div>
+        }
+        <p class="clear"></p>
+    </div>
+</body>

@@ -1,0 +1,110 @@
+﻿@model MatchRequest
+
+<head>
+    <style>
+        .py-5 {
+            margin: 0;
+        }
+
+        .gradient-custom-2 {
+            /* fallback for old browsers */
+            background: #fccb90;
+            /* Chrome 10-25, Safari 5.1-6 */
+            background: -webkit-linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+            /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(70,121,9,1) 35%, rgba(0,212,255,1) 100%);
+        }
+
+     /*    .gradient-form {
+            height: 100vh !important;
+        }
+
+        .gradient-custom-2 {
+            border-top-right-radius: .3rem;
+            border-bottom-right-radius: .3rem;
+        }
+ */
+    </style>
+</head>
+
+<div class="h-auto gradient-form" style="background-color: #eee ;>
+
+    <div class="row d-flex justify-content-center align-items-center h-100 ;>
+        <div class="col-xl-10">
+            <div class="card rounded-3 text-black">
+                <div class="row g-0">
+                    <div class="col-lg-6">
+                        <div class="card-body p-md-5 mx-md-4 " style="padding:0">
+
+                            <div class="text-center">
+                                <img src="~/istockphoto-1146102903-1024x1024.jpg"
+                                     style="width: 185px;" alt="logo">
+                                <h4 class="mt-1 mb-5 pb-1">TAZKARTY</h4>
+                            </div>
+
+                            <form asp-action="Create" method="post" asp-controller="Match" enctype="multipart/form-data">
+                                <p>Create a new match Ticket</p>
+                                <div class="form-group">
+                                    <label asp-for="NameS">Team1</label>
+                                    <input asp-for="NameS" class="form-control">
+                                    <span asp-validation-for="NameS" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Namev">Team2</label>
+                                    <input asp-for="Namev" class="form-control" >
+                                    <span asp-validation-for="Namev" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Location">stadium</label>
+                                    <input asp-for="Location" class="form-control" >
+                                    <span asp-validation-for="Location" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Tournament">Tournament</label>
+                                    <input asp-for="Tournament" class="form-control" >
+                                    <span asp-validation-for="Tournament" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="MatchTime">MatchTime</label>
+                                    <input asp-for="MatchTime" class="form-control" >
+                                    <span asp-validation-for="MatchTime" class="text-danger"></span>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label asp-for="Price">Price</label>
+                                    <input asp-for="Price" class="form-control" >
+                                    <span asp-validation-for="Price" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Image">Image</label>
+                                    <input asp-for="Image" class="form-control">
+                                    <span asp-validation-for="Image" class="text-danger"></span>
+                                </div>
+                                <br>
+                                <div class="text-center pt-1 mb-5 pb-1">
+                                    <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" type="submit">
+                                        Supmit
+                                    </button>
+                                    <button data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" asp-action="Index"asp-controller="Match" type="button">
+                                        Cancel
+                                    </button>
+                                </div>
+                                
+                                
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
+                        <div class="text-white px-3 py-4 p-md-5 mx-md-4">
+                            <h4 class="mb-4">TEAM TAZKARTY</h4>
+                            <p class="small mb-0">
+                               
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

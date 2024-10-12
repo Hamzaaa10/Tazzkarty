@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\shared\\_advlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\shared\\_advlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\match\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\match\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\match\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\match\\buy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\requests\\logininputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\requests\\logininputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\requests\\matchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\requests\\matchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\requests\\admininputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\requests\\admininputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\account\\registeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\account\\registeradmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\match\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\match\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\migrations\\20240909082225_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\migrations\\20240909082225_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\migrations\\20240909034210_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\migrations\\20240909034210_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\migrations\\20240909034210_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\migrations\\20240909034210_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed hamza ghoname\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\Style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed hamza ghoname\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|c:\\users\\ahmed hamza ghoname\\source\\repos\\tazzkarty\\tazzkarty\\migrations\\20240909180702_initi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C70EF4-C6E6-479A-B504-FFE2927A7BB5}|TAZZKARTY\\TAZZKARTY.csproj|solutionrelative:tazzkarty\\migrations\\20240909180702_initi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminInputs.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Requests\\AdminInputs.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Requests\\AdminInputs.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Requests\\AdminInputs.cs",
+              "RelativeToolTip": "TAZZKARTY\\Requests\\AdminInputs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:54:31.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Requests\\MatchRequest.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Requests\\MatchRequest.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Requests\\MatchRequest.cs",
+              "RelativeToolTip": "TAZZKARTY\\Requests\\MatchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:54:56.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginInputs.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Requests\\LoginInputs.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Requests\\LoginInputs.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Requests\\LoginInputs.cs",
+              "RelativeToolTip": "TAZZKARTY\\Requests\\LoginInputs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:54:54.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Models\\User.cs",
+              "RelativeToolTip": "TAZZKARTY\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAwZmZmZmY2wBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:56:22.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Models\\Match.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Models\\Match.cs",
+              "RelativeToolTip": "TAZZKARTY\\Models\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:32:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T03:47:11.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Match\\Buy.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Match\\Buy.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Match\\Buy.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Match\\Buy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T03:50:30.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Match\\Create.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Match\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Match\\Create.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Match\\Create.cshtml",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T04:10:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_advLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Shared\\_advLayout.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Shared\\_advLayout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Shared\\_advLayout.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Shared\\_advLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:38:16.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatchController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Controllers\\MatchController.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Controllers\\MatchController.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Controllers\\MatchController.cs",
+              "RelativeToolTip": "TAZZKARTY\\Controllers\\MatchController.cs",
+              "ViewState": "AgIAAGAAAAAANDMzMzMLwDMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:56:35.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TAZZKARTY\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAABAPQUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:55:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TAZZKARTY\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAALsAAAAAMjMzMzMTwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:52:17.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T04:00:30.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAABkAAACAmZmZmZkOwCkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:00:42.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACUAAABAXmZmZuYswDIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T04:00:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T22:03:17.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Services\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Services\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Services\\AppDbContext.cs",
+              "RelativeToolTip": "TAZZKARTY\\Services\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:35:42.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\RegisterAdmin.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Account\\RegisterAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Account\\RegisterAdmin.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Account\\RegisterAdmin.cshtml",
+              "ViewState": "AgIAAEcAAAAYmpmZmVkqwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T17:37:22.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TAZZKARTY\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:56:30.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Match\\Index.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Match\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Match\\Index.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Match\\Index.cshtml",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T03:51:31.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAzczMzMwqwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:38:16.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "TAZZKARTY\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T09:21:53.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "TAZZKARTY\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "TAZZKARTY\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAEsAAAAA9////38ZwAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T04:57:41.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Program.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Program.cs",
+              "RelativeToolTip": "TAZZKARTY\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:25:23.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240909082225_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\20240909082225_initial.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Migrations\\20240909082225_initial.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\20240909082225_initial.cs",
+              "RelativeToolTip": "TAZZKARTY\\Migrations\\20240909082225_initial.cs",
+              "ViewState": "AgIAADIAAABAmZmZmZkqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:22:25.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240909034210_init.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\20240909034210_init.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Migrations\\20240909034210_init.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\20240909034210_init.cs",
+              "RelativeToolTip": "TAZZKARTY\\Migrations\\20240909034210_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:42:10.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "TAZZKARTY\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "TAZZKARTY\\wwwroot\\css\\Style.css",
+              "ViewState": "AgIAAAcAAABAm5mZmZkuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T10:25:44.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TAZZKARTY\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TAZZKARTY\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAMzMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T10:25:47.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240909180702_initi.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\20240909180702_initi.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Migrations\\20240909180702_initi.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\20240909180702_initi.cs",
+              "RelativeToolTip": "TAZZKARTY\\Migrations\\20240909180702_initi.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABYPQAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:07:02.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T03:49:14.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TAZZKARTY\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T04:00:44.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TAZZKARTY\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:06:15.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240909034210_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\20240909034210_init.Designer.cs",
+              "RelativeDocumentMoniker": "TAZZKARTY\\Migrations\\20240909034210_init.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\Migrations\\20240909034210_init.Designer.cs",
+              "RelativeToolTip": "TAZZKARTY\\Migrations\\20240909034210_init.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T04:15:49.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T04:13:32.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\Ahmed hamza ghoname\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\Ahmed hamza ghoname\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\TAZKARTY\\TAZKARTY\\wwwroot\\css\\Style.css",
+              "ViewState": "AgIAANQBAAAAMDMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T04:13:25.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

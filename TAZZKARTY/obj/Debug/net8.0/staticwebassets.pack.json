@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TAZZKARTY.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TAZZKARTY.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\Profiles\\20240909212612113.jpg",
+      "PackagePath": "staticwebassets\\assets\\Profiles\\20240909212612113.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\Profiles\\20240909221223604.png",
+      "PackagePath": "staticwebassets\\assets\\Profiles\\20240909221223604.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\Profiles\\20240909222053930.png",
+      "PackagePath": "staticwebassets\\assets\\Profiles\\20240909222053930.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\Screenshot 2024-09-06 152645.png",
+      "PackagePath": "staticwebassets\\assets\\Screenshot 2024-09-06 152645.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240906155615748.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240906155615748.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240907040929220.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240907040929220.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240907101113588.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240907101113588.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240908004857785.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240908004857785.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909075353502.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909075353502.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909075437283.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909075437283.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909081751294.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909081751294.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909112631929.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909112631929.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909113008753.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909113008753.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909113118631.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909113118631.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909193707662.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909193707662.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909221125528.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909221125528.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909222633997.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909222633997.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240909223106091.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240909223106091.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910012801539.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910012801539.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910012903112.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910012903112.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910013411958.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910013411958.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910013514492.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910013514492.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910013559183.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910013559183.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910030817661.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910030817661.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910030951655.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910030951655.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910031132270.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910031132270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910031221446.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910031221446.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910031423968.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910031423968.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910031604663.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910031604663.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20240910031659221.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20240910031659221.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20241012205504199.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20241012205504199.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20241012205849330.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20241012205849330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20241012205926893.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20241012205926893.png"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20241012210033385.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20241012210033385.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20241012210822331.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20241012210822331.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\20241012211542793.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\20241012211542793.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\pexels-acam-14813312.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-acam-14813312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\pexels-andrew-taylor-1707945-4058956.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-andrew-taylor-1707945-4058956.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\pexels-el-gringo-photo-116752370-10183966.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-el-gringo-photo-116752370-10183966.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\pexels-pixabay-270085.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-pixabay-270085.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\assets\\img\\pexels-riciardus-303353.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pexels-riciardus-303353.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\istockphoto-1146102903-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\istockphoto-1146102903-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed hamza ghoname\\source\\repos\\TAZZKARTY\\TAZZKARTY\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TAZZKARTY.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TAZZKARTY.props",
+      "PackagePath": "build\\TAZZKARTY.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TAZZKARTY.props",
+      "PackagePath": "buildMultiTargeting\\TAZZKARTY.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TAZZKARTY.props",
+      "PackagePath": "buildTransitive\\TAZZKARTY.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
